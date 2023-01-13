@@ -1,0 +1,8 @@
+{
+  "name": "day-dreamer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:herrhelms/day-dreamer.git",
+  "author": "herrhelms <helms@straw.io>",
+  "license": "MIT"
+}
